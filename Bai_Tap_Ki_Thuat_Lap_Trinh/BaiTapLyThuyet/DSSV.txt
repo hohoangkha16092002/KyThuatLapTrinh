@@ -1,0 +1,3 @@
+              Ho Ten   GT Tuoi        DT        DL        DH       DTB
+      tran ngoc tien  nam   13 10.000000 10.000000 10.000000 10.000000
+        Le hoang nam   nu   29  1.000000  1.000000  1.000000  1.000000
